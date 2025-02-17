@@ -1,0 +1,31 @@
+Player A Moves: 34
+Player B Moves: 35
+Player A wins
+Player A Moves: 34
+Player B Moves: 35
+Player A wins
+Player A Moves: 30
+Player B Moves: 24
+Player B wins
+Player A Moves: 30
+Player B Moves: 24
+Player B wins
+Player A Moves: 30
+Player B Moves: 24
+Player B wins
+Player A Moves: 30
+Player B Moves: 24
+Player B wins
+Player A Moves: 33
+Player B Moves: 32
+Player B wins
+Player A Moves: 25
+Player B Moves: 20
+Player B wins
+Player A Moves: 25
+Player B Moves: 20
+Player B wins
+Player A Moves: 48
+Player B Moves: 51
+Player A wins
+Player B wins the series
